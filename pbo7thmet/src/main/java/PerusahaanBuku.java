@@ -16,5 +16,4 @@ class PerusahaanBuku {
     public void sebutNama(){
         String nama = "Pustaka Asia";
         String alamat = "Jl. Soekarno Hatta Rembuksari";
-        
     }

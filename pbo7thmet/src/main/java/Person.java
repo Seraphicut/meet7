@@ -9,5 +9,9 @@
  * @author A-27
  */
 class Person {
+
+    Person() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
